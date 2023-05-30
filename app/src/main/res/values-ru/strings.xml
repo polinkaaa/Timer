@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Секундомер</string>
+    <string name="btn_start">Старт</string>
+    <string name="btn_stop">Стоп</string>
+    <string name="btn_reset">Сброс</string>
+</resources>
